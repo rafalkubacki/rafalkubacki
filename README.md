@@ -11,7 +11,7 @@
 * I am a proven WordPress Expert with +5 years of experience that can do... things;
 * I can fix every aspect of Technical SEO, especially related to WordPress (I know - strange);
 * I develop and maintain custom coded solutions on both Front-End and Back-End;
-* I provide various integrations with things like Google Sheets (in a real-time), SOAP (*happy dino noises*), and other REST-like API's;
+* I provide integrations with things like Google Sheets (real-time), SOAP (*happy dino noises*), and other REST-like API's;
 
 ### ⚡ I'm available for freelance projects - [just drop me a line!](mailto:rafalkubacki7@gmail.com)
 
@@ -88,7 +88,7 @@ If you think that:
 
 Share the love then! I mean... the link! Share the link! 
 
-**[https://rafalkubacki.com](https://rafalkubacki.com)**
+**[https://github.com/rafalkubacki](https://github.com/rafalkubacki)**
 
 Thank you! ❤️
 
