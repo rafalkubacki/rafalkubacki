@@ -102,5 +102,5 @@ and experience some glorious script magic on you own!
 <br>
 
 ```
-<script defer src="https://raw.githubusercontent.com/rafalkubacki/woosh/master/woosh.js"></script>
+<script defer src="https://raw.githubusercontent.com/rafalkubacki/woosh/master/public/bundle.js"></script>
 ```
