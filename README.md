@@ -10,6 +10,6 @@ I'm a **Senior Web Developer** with a passion for building innovative and scalab
 ### 🚀 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/rafalkubacki/)
 - [Portfolio](https://rafalkubacki.com/)
-- [Email](rafalkubacki7@gmail.com)
+- [Email](mailto:rafalkubacki7@gmail.com)
 
 Looking forward to creating something amazing together!
